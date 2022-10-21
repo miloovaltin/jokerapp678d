@@ -1,16 +1,16 @@
 {
-"name": "jokerapp678d",
-"theme": "jokerapp678d",
-"version": "4.1.7",
-"description": "jokerapp678d ทางเข้าหลักเว็บพนันเว็บตรง ไม่ผ่านเอเย่นต์ แจกเครดิตฟรี",
-"keywords": [
-"jokerapp678d",
-"jokerapp678d เครดิตฟรี",
-"jokerapp678d ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/jokerapp678d",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "jokerapp678d",
+  "theme": "jokerapp678d",
+  "version": "4.2.0",
+  "description": "jokerapp678d ทางเข้าหลักเว็บพนันเว็บตรง ไม่ผ่านเอเย่นต์ แจกเครดิตฟรี",
+  "keywords": [
+    "jokerapp678d",
+    "jokerapp678d เครดิตฟรี",
+    "jokerapp678d ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/jokerapp678d",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
